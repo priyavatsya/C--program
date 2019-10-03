@@ -1,2 +1,2 @@
 # C--program
-program of selection sort using c
+program of counting sort using c
